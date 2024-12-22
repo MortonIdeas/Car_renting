@@ -1,0 +1,66 @@
+[
+    {
+        "name_in_program": "Bicycle",
+        "name": "Top top bicycle",
+        "id": 2,
+        "type_of_bicycle": "mountain bike",
+        "tyres_size": 23,
+        "available_status": 1,
+        "reserved_terms": [
+            [
+                "2023-2-1",
+                "2024-12-23"
+            ],
+            [
+                "2036-5-1",
+                "2030-4-1"
+            ]
+        ]
+    },
+    {
+        "name_in_program": "Lorry",
+        "heigh": 3.32,
+        "combustion": 3.32,
+        "name": "Toyota Lorry",
+        "id": 3,
+        "places": 3,
+        "trunk_spaces": 23,
+        "lorry_capacity": 45,
+        "available_status": 1,
+        "reserved_terms": [
+            [
+                "2022-06-16",
+                "2023-2-3"
+            ]
+        ]
+    },
+    {
+        "available_status": 1,
+        "reserved_terms": [],
+        "name_in_program": "Car",
+        "heigh": 3.32,
+        "combustion": 3.32,
+        "name": "Toyota",
+        "id": 4,
+        "places": 4,
+        "trunk_spaces": 23
+    },
+    {
+        "name_in_program": "Limousine",
+        "heigh": 3.32,
+        "combustion": 3.32,
+        "name": "Toyota",
+        "id": 5,
+        "places": 4,
+        "trunk_spaces": 23,
+        "colour": "red",
+        "length": 3.0,
+        "available_status": 1,
+        "reserved_terms": [
+            [
+                "2022-06-16",
+                "2022-6-30"
+            ]
+        ]
+    }
+]
